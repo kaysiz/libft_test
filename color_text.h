@@ -6,12 +6,12 @@
 /*   By: ksiziva <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/06/22 08:07:26 by ksiziva           #+#    #+#             */
-/*   Updated: 2018/06/22 08:14:29 by ksiziva          ###   ########.fr       */
+/*   Updated: 2018/06/22 16:29:54 by ksiziva          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-
+#include <stdio.h>
 void    underline()
 {
     printf("\033[4m");
